@@ -1,0 +1,15 @@
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\examples.exe
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\examples.deps.json
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\examples.runtimeconfig.json
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\examples.dll
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\ref\examples.dll
+C:\Users\Aytac\source\repos\examples\examples\bin\Debug\net6.0\examples.pdb
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.csproj.AssemblyReference.cache
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.AssemblyInfoInputs.cache
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.AssemblyInfo.cs
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.csproj.CoreCompileInputs.cache
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.dll
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\ref\examples.dll
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.pdb
+C:\Users\Aytac\source\repos\examples\examples\obj\Debug\net6.0\examples.genruntimeconfig.cache

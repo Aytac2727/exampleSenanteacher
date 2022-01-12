@@ -10,8 +10,8 @@ Product product = new()
     "Belə ki, smartfonun 3040x1440 piksel keyfiyyətli 6.75 düym Dynamic AMOLED ekranı ön panelin 94.2%-ni əhatə edir. "
 };
 
-Console.WriteLine(product.GetDescriptionAsSeo());
-Console.WriteLine(product.CalculateEDV());
+Console.WriteLine("Mehsul haqqinda: " + product.GetDescriptionAsSeo());
+Console.WriteLine("Mehsulun edv qiymeti: " + product.CalculateEDV());
 
 
 
